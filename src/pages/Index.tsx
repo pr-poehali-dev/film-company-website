@@ -117,9 +117,8 @@ function Index() {
             </span>
             БУДУЩЕГО
           </h1>
-          <p className="text-xl md:text-2xl text-cinematic-gray-light mb-8 max-w-2xl mx-auto">
-            Профессиональная кинокомпания с 15-летним опытом создания незабываемых визуальных историй
-          </p>
+          <p className="text-xl md:text-2xl text-cinematic-gray-light mb-8 max-w-2xl mx-auto font-bold">Кинокомпания Умида Мамедова.
+Если ты творческая личность,то тебе к нам.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
               size="lg" 
