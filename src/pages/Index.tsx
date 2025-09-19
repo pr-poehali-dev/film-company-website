@@ -72,7 +72,7 @@ function Index() {
       <nav className="fixed top-0 w-full z-50 bg-black/80 backdrop-blur-md border-b border-cinematic-gray-dark">
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-montserrat font-bold from-cinematic-orange to-cinematic-orange-dark text-transparent bg-slate-100 mx-0 rounded-none px-0">Studio U37</div>
+            <div className="text-2xl font-montserrat font-bold from-cinematic-orange to-cinematic-orange-dark text-transparent mx-0 rounded-none px-0 bg-transparent">Studio U37</div>
             <div className="hidden md:flex space-x-8">
               {[
                 { id: 'home', label: 'Главная' },
